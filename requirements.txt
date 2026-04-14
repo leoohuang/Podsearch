@@ -1,0 +1,29 @@
+#ASR
+faster-whisper==1.0.3
+
+# Embedding & ML
+sentence-transformers==3.0.1
+FlagEmbedding==1.2.11   # BGE-M3
+torch==2.3.0
+
+# Vector DB
+chromadb==0.5.0
+
+# Data processing
+feedparser==6.0.11
+requests==2.32.3
+pydub==0.25.1
+tqdm==4.66.4
+
+#fronted
+streamlit==1.35.0
+
+# Utils
+python-dotenv==1.0.1
+pyyaml==6.0.1
+numpy==1.26.4
+pandas==2.2.2
+
+# Optional: LangChain for SemanticChunker
+langchain==0.2.0
+langchain-community==0.2.0
