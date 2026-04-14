@@ -11,8 +11,8 @@ CHUNK_DIR = DATA_DIR / "chunks"  # 切分好的文本片段存在这
 CHROMA_DIR = DATA_DIR / "chroma_db"  # 向量数据库存在这
 
 #whisper配置
-WHISPER_MODEL = "large-v3"   # 用最大最强的模型
-WHISPER_DEVICE = "cpu"       # Mac 目前只能用 CPU 跑（够用）
+WHISPER_MODEL = "tiny"   
+WHISPER_DEVICE = "cpu"       
 WHISPER_COMPUTE = "int8"     # 压缩计算，更快、更省内存
 
 

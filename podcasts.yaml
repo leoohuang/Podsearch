@@ -1,0 +1,50 @@
+podcasts:
+  - name: "Lex Fridman Podcast"
+    slug: "lex_fridman"
+    lang: "en"
+    episodes_to_fetch: 5
+
+  - name: "Acquired"
+    slug: "acquired"
+    lang: "en"
+    episodes_to_fetch: 5
+
+  - name: "The Indicator"
+    slug: "the_indicator"
+    lang: "en"
+    episodes_to_fetch: 5
+
+  - name: "ESL Podcast"
+    slug: "esl_podcast"
+    lang: "en"
+    episodes_to_fetch: 5
+
+  - name: "All Ears English"
+    slug: "all_ears_english"
+    lang: "en"
+    episodes_to_fetch: 5
+
+  - name: "硅谷101"
+    slug: "guigu101"
+    lang: "zh"
+    episodes_to_fetch: 5
+
+  - name: "纵横四海"
+    slug: "zonghengsihai"
+    lang: "zh"
+    episodes_to_fetch: 5
+
+  - name: "知行小酒馆"
+    slug: "zhixing_xiaojiuguan"
+    lang: "zh"
+    episodes_to_fetch: 5
+
+  - name: "忽左忽右"
+    slug: "huzuohuyou"
+    lang: "zh"
+    episodes_to_fetch: 5
+
+  - name: "罗永浩的十字路口"
+    slug: "luoyonghao"
+    lang: "zh"
+    episodes_to_fetch: 5
