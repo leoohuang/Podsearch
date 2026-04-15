@@ -8,7 +8,7 @@ DATA_DIR = ROOT / "data"        # 项目根目录下的 data 文件夹
 AUDIO_DIR = DATA_DIR / "raw_audio"  # 下载的播客音频存在这
 TRANSCRIPT_DIR = DATA_DIR / "transcripts"  # 语音转文字的结果存在这
 CHUNK_DIR = DATA_DIR / "chunks"  # 切分好的文本片段存在这
-CHROMA_DIR = DATA_DIR / "chroma_db"  # 向量数据库存在这
+CHROMA_DIR = DATA_DIR / "chroma_db"  # 向量数据库
 
 #whisper配置
 WHISPER_MODEL = "tiny"   

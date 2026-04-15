@@ -21,7 +21,6 @@ def batch_transcribe():
         print(f"===== [{idx}/{len(audio_files)}] Processing:{path.name} =====")
 
         try:
-            # 自动识别语言，也可以手动指定 lang="zh" / "en"
             save_transcript(path, lang=None)
             success += 1
             print(f"Success!\n")

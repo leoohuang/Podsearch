@@ -1,0 +1,432 @@
+{
+  "audio_path": "/Users/leohuang/podsearch/data/raw_audio/The_Indicator_from_Planet_Money/a4be79ea-15c1-411f-931c-5a2407246e4b.mp3",
+  "language": "en",
+  "duration": 507.6114375,
+  "segments": [
+    {
+      "start": 0.43,
+      "end": 17.63,
+      "text": " NPR. Recently, Senator Bernie Sanders and representative Alexandria Ocasio-Cotez introduced"
+    },
+    {
+      "start": 17.63,
+      "end": 24.51,
+      "text": " a bill to Paul's new AI data center construction. Among their complaints, electricity costs."
+    },
+    {
+      "start": 24.51,
+      "end": 31.75,
+      "text": " People's energy bills around the country are skyrocketing. In order to pay for these AI data"
+    },
+    {
+      "start": 31.75,
+      "end": 36.47,
+      "text": " centers for them. Over the last five years, electricity prices have more than tripled"
+    },
+    {
+      "start": 36.47,
+      "end": 41.51,
+      "text": " areas close to data centers. That's according to Bloomberg. These price rises have contributed"
+    },
+    {
+      "start": 41.51,
+      "end": 46.47,
+      "text": " to local opposition blocking billions of dollars' worth of data centers. And this week,"
+    },
+    {
+      "start": 46.47,
+      "end": 51.67,
+      "text": " Maine's House passed initial approval on pausing most data center construction in the state."
+    },
+    {
+      "start": 51.67,
+      "end": 55.67,
+      "text": " Both the Senate and Governor support the bill, so it's expected to pass."
+    },
+    {
+      "start": 55.67,
+      "end": 62.15,
+      "text": " Jay Jay Assyria is a utilities consultant. And he says that data centers are a scapegoat for"
+    },
+    {
+      "start": 62.15,
+      "end": 67.99,
+      "text": " longstanding issues in the electricity market. I think data centers are a factor, but to say that"
+    },
+    {
+      "start": 67.99,
+      "end": 75.43,
+      "text": " they're the ones to solve the responsible for higher electricity prices, I think, is perhaps misleading."
+    },
+    {
+      "start": 75.43,
+      "end": 80.95,
+      "text": " So who's right? This is the indicator from planet money. I'm Darym Woods."
+    },
+    {
+      "start": 80.95,
+      "end": 86.47,
+      "text": " And I'm William Wong. Today on the show, data centers and your power bill. We excavate"
+    },
+    {
+      "start": 86.55,
+      "end": 91.75,
+      "text": " years of underinvestment in the grid and ask whether the current wave of AI data centers"
+    },
+    {
+      "start": 91.75,
+      "end": 102.95,
+      "text": " could possibly even help. Do you love pop culture? Hate some of it too? You're in good company."
+    },
+    {
+      "start": 102.95,
+      "end": 108.23,
+      "text": " Pull up a metaphorical chair to pop culture happy hour. The podcast that breaks down the best"
+    },
+    {
+      "start": 108.23,
+      "end": 112.87,
+      "text": " and some of the most questionable moments in pop culture. We'll tell you what's great,"
+    },
+    {
+      "start": 112.87,
+      "end": 116.87,
+      "text": " what's interesting, and break it all down with debates that'll have you yelling at your"
+    },
+    {
+      "start": 116.87,
+      "end": 122.07,
+      "text": " speakers, but in a good way. Listen to MPR's pop culture happy hour by finding us wherever you"
+    },
+    {
+      "start": 122.07,
+      "end": 128.71,
+      "text": " get your podcasts. Jay Jay Assyria is a consultant in Houston, Texas for Cendero Consulting."
+    },
+    {
+      "start": 128.71,
+      "end": 133.91,
+      "text": " That's where Jay works with the electricity companies that power data centers. And Jay has a"
+    },
+    {
+      "start": 133.91,
+      "end": 139.99,
+      "text": " provocative thesis. He believes that AI data centers are unfairly getting the blame for more than a"
+    },
+    {
+      "start": 139.99,
+      "end": 146.15,
+      "text": " decade of underinvestment in the U.S. grid. What's the state of America's electricity grids?"
+    },
+    {
+      "start": 146.23,
+      "end": 156.31,
+      "text": " They are functioning. You see a lot of the grid operating in certain ways. There's new lines"
+    },
+    {
+      "start": 156.31,
+      "end": 162.87,
+      "text": " and transmission lines going up. There's the upgrade to be able to transport more power across"
+    },
+    {
+      "start": 162.87,
+      "end": 168.39,
+      "text": " the grid. But Jay thinks that America's power grid has been underinvested in for 15 years,"
+    },
+    {
+      "start": 168.39,
+      "end": 172.95,
+      "text": " way before the AI boom. You've got power lines that can be vulnerable to storms and could spark"
+    },
+    {
+      "start": 172.95,
+      "end": 178.23,
+      "text": " wildfires, big renewable projects that can't connect to the grid as it is. Jay thinks that"
+    },
+    {
+      "start": 178.23,
+      "end": 184.31,
+      "text": " companies building AI data centers are by contrast actually trying to find new ways to get power."
+    },
+    {
+      "start": 184.31,
+      "end": 189.35,
+      "text": " A lot of the data centers that are going up are, you know, responsibly finding ways to"
+    },
+    {
+      "start": 189.35,
+      "end": 197.75,
+      "text": " acquire power through, you know, these long-term deals with providers or spending the money,"
+    },
+    {
+      "start": 197.75,
+      "end": 205.11,
+      "text": " investing the money to build a co-located generator that will serve the data center needs."
+    },
+    {
+      "start": 205.11,
+      "end": 210.15,
+      "text": " Right. They're putting natural gas plants on the data center site sometimes."
+    },
+    {
+      "start": 210.15,
+      "end": 214.39,
+      "text": " Yeah. I mean, the natural gas plant, a combined cycle plant, you know, even looking at"
+    },
+    {
+      "start": 215.27,
+      "end": 221.75,
+      "text": " smaller nuclear options. Jay says that having the data center providing its own power on site could"
+    },
+    {
+      "start": 221.75,
+      "end": 226.15,
+      "text": " have been off benefits for the rest of us. That's if the data center doesn't need all the"
+    },
+    {
+      "start": 226.15,
+      "end": 230.55,
+      "text": " power it's generating. Whatever access they have, they can provide into the grid."
+    },
+    {
+      "start": 230.55,
+      "end": 235.75,
+      "text": " Another way data centers could actually help the grid is paying for fixed costs,"
+    },
+    {
+      "start": 235.75,
+      "end": 240.55,
+      "text": " maintaining power lines, clearing overgrown trees from those lines, building substations"
+    },
+    {
+      "start": 240.55,
+      "end": 245.35,
+      "text": " to convert electricity into the right voltages. These would be cost for the utilities no"
+    },
+    {
+      "start": 245.35,
+      "end": 250.55,
+      "text": " matter how much power an individual house or business bought each day. And so when there's more"
+    },
+    {
+      "start": 250.55,
+      "end": 255.91,
+      "text": " electricity being generated and sold, those fixed costs as a share of your final power"
+    },
+    {
+      "start": 255.91,
+      "end": 260.79,
+      "text": " bill are lower. It's just like how a car company can bring down the price of cars by selling"
+    },
+    {
+      "start": 260.79,
+      "end": 266.47,
+      "text": " more of them, economies of scale. In fact, earlier this year, the big power company in California"
+    },
+    {
+      "start": 266.47,
+      "end": 273.43,
+      "text": " of PG&E said that data center growth had helped it cut electricity rates by 13% since 2024."
+    },
+    {
+      "start": 273.43,
+      "end": 279.03,
+      "text": " And they cited the ways that data centers paid for more fixed costs as contributing to this."
+    },
+    {
+      "start": 279.03,
+      "end": 283.59,
+      "text": " But it's worth a reality check here. Philip Crine is a professor of electrical and computer"
+    },
+    {
+      "start": 283.67,
+      "end": 288.95,
+      "text": " engineering at the University of Illinois or Banisham Hain. We asked Philip Crine what he thought"
+    },
+    {
+      "start": 288.95,
+      "end": 295.11,
+      "text": " of Jay Jay's Suria's idea that data centers are the scapegoat for years of grid under investment."
+    },
+    {
+      "start": 295.11,
+      "end": 303.11,
+      "text": " I don't accept that. I think what's going on right now is data centers are walking in and say,"
+    },
+    {
+      "start": 303.11,
+      "end": 311.83,
+      "text": " hey, we want 20% more capacity we want today. That's just not a normal situation."
+    },
+    {
+      "start": 312.31,
+      "end": 317.11,
+      "text": " Yeah, it's a Philip. It's the speed at which they want it as causing strains and in many"
+    },
+    {
+      "start": 317.11,
+      "end": 324.15,
+      "text": " places higher electricity bills. Data centers in computing basically are sucking up 100% of"
+    },
+    {
+      "start": 324.15,
+      "end": 330.87,
+      "text": " potential future capacity. And that is getting reflected back into the current rate base."
+    },
+    {
+      "start": 331.59,
+      "end": 336.15,
+      "text": " Philip says it doesn't matter whether or not the grid had been properly investing over the last"
+    },
+    {
+      "start": 336.15,
+      "end": 341.35,
+      "text": " 15 years. Either way, the grid would struggle to meet this rapid increase in demand."
+    },
+    {
+      "start": 341.35,
+      "end": 346.31,
+      "text": " Yeah, not everywhere is like California where power bills are going down, like take northern"
+    },
+    {
+      "start": 346.31,
+      "end": 352.55,
+      "text": " Virginia. Its electricity grid is already strained to its existing capacity. So a new data"
+    },
+    {
+      "start": 352.55,
+      "end": 357.99,
+      "text": " center needs new grid investments, new high voltage transmission lines, new substations,"
+    },
+    {
+      "start": 357.99,
+      "end": 363.35,
+      "text": " for example, that means higher bills. That said, Philip believes it's possible that the"
+    },
+    {
+      "start": 363.35,
+      "end": 368.87,
+      "text": " US can increase its electricity generation and transmission by a lot. After all, it's already"
+    },
+    {
+      "start": 368.87,
+      "end": 376.95,
+      "text": " done this in the past. Between the late 1920s and the late 1970s, the US power grid grew by about"
+    },
+    {
+      "start": 376.95,
+      "end": 384.87,
+      "text": " a factor of 12. So the notion that we need to grow again by 20 or 30 or 50%."
+    },
+    {
+      "start": 385.67,
+      "end": 391.11,
+      "text": " Is a little bit of a bend there done that kind of a thing. On the other hand, Philip says the"
+    },
+    {
+      "start": 391.19,
+      "end": 396.55,
+      "text": " National Grid kind of stopped growing in the 1980s. That's because appliances and factories"
+    },
+    {
+      "start": 396.55,
+      "end": 402.23,
+      "text": " got more energy efficient. So there wasn't much push for expanding capacity. Now, we have"
+    },
+    {
+      "start": 402.23,
+      "end": 407.83,
+      "text": " growth and electric vehicles, air conditioning, home heating, converting to electric. And of course,"
+    },
+    {
+      "start": 407.83,
+      "end": 415.35,
+      "text": " AI data centers. Whether we can get back into that mode is the interesting question. But,"
+    },
+    {
+      "start": 415.35,
+      "end": 420.47,
+      "text": " you know, we've done this before, we know how to do it. Philip says growing the electricity sector"
+    },
+    {
+      "start": 420.55,
+      "end": 425.43,
+      "text": " is a matter of getting the right financial incentives, making sure it's economic for generators"
+    },
+    {
+      "start": 425.43,
+      "end": 431.67,
+      "text": " to build new capacity and send it to customers. One example, electricity at the moment is regional."
+    },
+    {
+      "start": 431.67,
+      "end": 437.59,
+      "text": " That means, say, New York in the evening can't buy cheap solar power from the Texas afternoon."
+    },
+    {
+      "start": 437.59,
+      "end": 442.23,
+      "text": " What could solve this would be building huge transmission lines that could move electricity"
+    },
+    {
+      "start": 442.23,
+      "end": 448.87,
+      "text": " from state to state. The United States needs very significant growth in the cross-country"
+    },
+    {
+      "start": 448.95,
+      "end": 454.39,
+      "text": " transmission infrastructure. I don't think anybody who knows the situation disagrees with that."
+    },
+    {
+      "start": 454.95,
+      "end": 460.87,
+      "text": " But, you know, a transmission line from Chicago to New York or California to Chicago"
+    },
+    {
+      "start": 460.87,
+      "end": 467.67,
+      "text": " goes through so many jurisdictions and so many layers of approval that it's a very"
+    },
+    {
+      "start": 467.67,
+      "end": 473.27,
+      "text": " unwieldy kind of a project. Yeah, I'll be honest, all that compliance and pivoting sounds"
+    },
+    {
+      "start": 473.35,
+      "end": 478.79,
+      "text": " impossible. But, Philip says it's not. We need to go back and see what we've done before"
+    },
+    {
+      "start": 478.79,
+      "end": 484.07,
+      "text": " and some of what we need to do again. Data centers in general are contributing to rising electricity"
+    },
+    {
+      "start": 484.07,
+      "end": 489.51,
+      "text": " bills. California is an example of Wednesday, that's an exception to this. But, both Philip and"
+    },
+    {
+      "start": 489.51,
+      "end": 495.27,
+      "text": " Jay agree there's an opportunity to use this spike in power demand to build a better grid."
+    },
+    {
+      "start": 497.19,
+      "end": 500.47,
+      "text": " This episode was produced by Cooper Kasper Kim with Engineering by KWC Lee,"
+    },
+    {
+      "start": 500.47,
+      "end": 504.63,
+      "text": " this fact checked by Sierra Poides. K can get an edits to show and the indicator is a production"
+    },
+    {
+      "start": 504.63,
+      "end": 509.27,
+      "text": " of NPR."
+    }
+  ]
+}

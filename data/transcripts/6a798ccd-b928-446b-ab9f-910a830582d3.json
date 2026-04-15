@@ -1,0 +1,677 @@
+{
+  "audio_path": "/Users/leohuang/podsearch/data/raw_audio/The_Indicator_from_Planet_Money/6a798ccd-b928-446b-ab9f-910a830582d3.mp3",
+  "language": "en",
+  "duration": 586.50125,
+  "segments": [
+    {
+      "start": 0.43,
+      "end": 2.43,
+      "text": " NPR."
+    },
+    {
+      "start": 2.43,
+      "end": 18.12,
+      "text": " If you drive a gas-powered car for weeks, you've seen prices at the pump going one way."
+    },
+    {
+      "start": 18.12,
+      "end": 19.12,
+      "text": " Up."
+    },
+    {
+      "start": 19.12,
+      "end": 20.12,
+      "text": " And up."
+    },
+    {
+      "start": 20.12,
+      "end": 21.12,
+      "text": " And up."
+    },
+    {
+      "start": 21.12,
+      "end": 27.04,
+      "text": " As of our recording, US gas prices are now averaging $4.14 a gallon, the highest"
+    },
+    {
+      "start": 27.04,
+      "end": 28.04,
+      "text": " in three years."
+    },
+    {
+      "start": 28.04,
+      "end": 30.04,
+      "text": " And that's just an average."
+    },
+    {
+      "start": 30.04,
+      "end": 33.92,
+      "text": " It can run higher in places like Los Angeles, where Carter Victoria was filling"
+    },
+    {
+      "start": 33.92,
+      "end": 34.92,
+      "text": " up."
+    },
+    {
+      "start": 34.92,
+      "end": 38.16,
+      "text": " It's almost six bucks, five, seventy nine, so I'm like that."
+    },
+    {
+      "start": 38.16,
+      "end": 39.16,
+      "text": " It's expensive."
+    },
+    {
+      "start": 39.92,
+      "end": 44.32,
+      "text": " Or somewhat cheaper than the national average, like in the Southern United States."
+    },
+    {
+      "start": 44.32,
+      "end": 49.0,
+      "text": " Gas was 369 a gallon at the Kruger gas station in Savannah, Georgia, where"
+    },
+    {
+      "start": 49.0,
+      "end": 54.0,
+      "text": " retiree Joseph Spellman was filling up his 2007 Toyota Sedan."
+    },
+    {
+      "start": 54.0,
+      "end": 56.56,
+      "text": " Have you noticed you've had to spend more to fill up?"
+    },
+    {
+      "start": 56.56,
+      "end": 59.12,
+      "text": " Not really, because I don't drive."
+    },
+    {
+      "start": 59.12,
+      "end": 61.68,
+      "text": " I used to call me five out on the drive, but we could not"
+    },
+    {
+      "start": 61.68,
+      "end": 63.28,
+      "text": " call me 10 now, or so."
+    },
+    {
+      "start": 63.28,
+      "end": 64.48,
+      "text": " It don't bother me."
+    },
+    {
+      "start": 64.48,
+      "end": 67.36,
+      "text": " I wish I could be as unbothered as Joseph."
+    },
+    {
+      "start": 67.36,
+      "end": 69.24,
+      "text": " This is the indicator from planet, Lenny."
+    },
+    {
+      "start": 69.24,
+      "end": 72.72,
+      "text": " I'm Wayland Wong, and I'm joined by producer Julia Richie."
+    },
+    {
+      "start": 72.72,
+      "end": 73.72,
+      "text": " Good to be back."
+    },
+    {
+      "start": 73.72,
+      "end": 78.88,
+      "text": " The US Iran conflict is now entering its second month with no clear exit ramp,"
+    },
+    {
+      "start": 78.88,
+      "end": 84.12,
+      "text": " sending oil prices to their highest levels since the 2008 financial crisis."
+    },
+    {
+      "start": 84.12,
+      "end": 89.32,
+      "text": " The impact on the US and oil prices has been less severe than for many other countries,"
+    },
+    {
+      "start": 89.32,
+      "end": 92.16,
+      "text": " but that doesn't mean it hasn't been felt at home."
+    },
+    {
+      "start": 92.16,
+      "end": 96.28,
+      "text": " Today on the show, drivers describe how they're adapting to higher prices and"
+    },
+    {
+      "start": 96.36,
+      "end": 104.75,
+      "text": " an economist tells us when or if we might see some relief."
+    },
+    {
+      "start": 104.75,
+      "end": 109.75,
+      "text": " This message comes from wise, the app for international people using money around the globe."
+    },
+    {
+      "start": 109.75,
+      "end": 115.11,
+      "text": " You can send, spend, and receive an up to 40 currencies with only a few simple taps."
+    },
+    {
+      "start": 115.11,
+      "end": 122.23,
+      "text": " Be smart, get wise, download the wise app today, or visit wise.com, tease and seize apply."
+    },
+    {
+      "start": 122.23,
+      "end": 123.23,
+      "text": " We've all been there."
+    },
+    {
+      "start": 123.23,
+      "end": 127.03,
+      "text": " Maybe somebody tells you too much about the twisting of a movie, or they tell you who"
+    },
+    {
+      "start": 127.07,
+      "end": 130.59,
+      "text": " dies at the end, in other words, you've run into a spoiler."
+    },
+    {
+      "start": 130.59,
+      "end": 133.75,
+      "text": " How should you handle spoilers and what even counts as a spoiler?"
+    },
+    {
+      "start": 133.75,
+      "end": 138.11,
+      "text": " We'll tell you how we handle spoilers as critics on NPR's pop culture hack hour."
+    },
+    {
+      "start": 138.11,
+      "end": 142.63,
+      "text": " Listen via the NPR app or wherever you get your podcasts."
+    },
+    {
+      "start": 142.63,
+      "end": 145.87,
+      "text": " Neil Mahoney is an economist at Stanford University."
+    },
+    {
+      "start": 145.87,
+      "end": 149.07,
+      "text": " Neil is in California where gas prices are highest."
+    },
+    {
+      "start": 149.07,
+      "end": 152.55,
+      "text": " Still, he's one of the lucky ones because he drives an EV,"
+    },
+    {
+      "start": 152.55,
+      "end": 155.47,
+      "text": " not that he hasn't noticed the prices around town."
+    },
+    {
+      "start": 155.59,
+      "end": 162.75,
+      "text": " Every time I drive, I see multiple gas stations with signs where the price is, you know,"
+    },
+    {
+      "start": 162.75,
+      "end": 165.55,
+      "text": " five, even six dollars a gallon in California."
+    },
+    {
+      "start": 165.55,
+      "end": 169.71,
+      "text": " Neil says gas is about 3% of a household's expenses."
+    },
+    {
+      "start": 169.71,
+      "end": 174.63,
+      "text": " It's not as big of a category as say rent, but it takes up a huge buying share."
+    },
+    {
+      "start": 174.63,
+      "end": 180.91,
+      "text": " Yeah, we are constantly aware of gas prices because we see them when we drive and hear about them on the news."
+    },
+    {
+      "start": 180.91,
+      "end": 183.35,
+      "text": " Or your favorite economics podcast?"
+    },
+    {
+      "start": 183.43,
+      "end": 185.15,
+      "text": " Guilty as charged."
+    },
+    {
+      "start": 185.15,
+      "end": 188.31,
+      "text": " That's what Carter Victoria told us in LA will not exactly that."
+    },
+    {
+      "start": 188.31,
+      "end": 193.35,
+      "text": " Well, filling up his Toyota for a runner, he can't escape the creep of prices."
+    },
+    {
+      "start": 193.35,
+      "end": 196.87,
+      "text": " I mean, luckily I walked to work, I worked just on the street,"
+    },
+    {
+      "start": 196.87,
+      "end": 201.91,
+      "text": " but I mean, yeah, just like daily stuff is pretty annoying now."
+    },
+    {
+      "start": 201.91,
+      "end": 205.51,
+      "text": " And just really when I get to the gas station, it really bumps me out."
+    },
+    {
+      "start": 205.51,
+      "end": 208.19,
+      "text": " Because I'm like, I just put in $30."
+    },
+    {
+      "start": 208.19,
+      "end": 210.79,
+      "text": " And I'm at a, I'm not even at a quarter take."
+    },
+    {
+      "start": 210.79,
+      "end": 212.91,
+      "text": " And I don't drive the most fuel-efficient vehicle, you know?"
+    },
+    {
+      "start": 212.91,
+      "end": 216.27,
+      "text": " Neil says another reason gas prices are such a big deal,"
+    },
+    {
+      "start": 216.27,
+      "end": 220.87,
+      "text": " is because fuel is non-discretionary for many, if not most Americans."
+    },
+    {
+      "start": 220.87,
+      "end": 223.75,
+      "text": " We can cut back on summer vacation."
+    },
+    {
+      "start": 223.75,
+      "end": 229.79,
+      "text": " We can switch from buying branded products to store label products of the grocery store."
+    },
+    {
+      "start": 229.79,
+      "end": 235.19,
+      "text": " But if we have to commute to work to pick our kids, we don't have a choice."
+    },
+    {
+      "start": 235.19,
+      "end": 239.07,
+      "text": " And that's exactly what we heard from Candace Lotton in Savannah, Georgia."
+    },
+    {
+      "start": 239.07,
+      "end": 242.43,
+      "text": " She was filling up her Toyota Corolla at a Crocker gas station."
+    },
+    {
+      "start": 242.43,
+      "end": 246.83,
+      "text": " Here and more people are talking about the gas prices, but honestly, I don't look at them"
+    },
+    {
+      "start": 246.83,
+      "end": 253.55,
+      "text": " because gas is in the facility, so in order for me to get to where me and my daughter had to go, I got it back in."
+    },
+    {
+      "start": 253.55,
+      "end": 259.15,
+      "text": " Candace's relationship to gas prices is what economists like Neil describe as inelastic."
+    },
+    {
+      "start": 259.15,
+      "end": 264.75,
+      "text": " When we say that demand is inelastic, it means that sort of demand doesn't change based on the price."
+    },
+    {
+      "start": 264.75,
+      "end": 267.55,
+      "text": " And gas is a great example of that."
+    },
+    {
+      "start": 267.55,
+      "end": 274.19,
+      "text": " If you have to commute 25 miles to work and the price of gas increases,"
+    },
+    {
+      "start": 274.19,
+      "end": 280.43,
+      "text": " unless you can jump on public transportation, you would just have to pay the increased cost."
+    },
+    {
+      "start": 280.43,
+      "end": 285.31,
+      "text": " Public transit isn't a good option for Candace, so she has to find other ways to cut back."
+    },
+    {
+      "start": 285.31,
+      "end": 292.94,
+      "text": " Now I'm taking a few of her trips, eating out less, that's about it."
+    },
+    {
+      "start": 292.94,
+      "end": 298.06,
+      "text": " And Neil says when these prices start to make a scale back on meals out, like for Candace,"
+    },
+    {
+      "start": 298.06,
+      "end": 303.34,
+      "text": " or bum us out, as Carter told us, that has a ripple effect on the larger economy."
+    },
+    {
+      "start": 304.14,
+      "end": 310.38,
+      "text": " So gas really punches above its weight in terms of people's expectation of inflation."
+    },
+    {
+      "start": 310.38,
+      "end": 314.94,
+      "text": " So even though the real inflation adjusted impact is smaller,"
+    },
+    {
+      "start": 314.94,
+      "end": 321.34,
+      "text": " I think the impact of it on our collective conscience as consumers,"
+    },
+    {
+      "start": 322.38,
+      "end": 324.94,
+      "text": " as members of society is just as large."
+    },
+    {
+      "start": 325.02,
+      "end": 328.86,
+      "text": " As we've covered before, when people start to anticipate higher inflation,"
+    },
+    {
+      "start": 328.86,
+      "end": 333.5,
+      "text": " they may spend more before prices go up again, or they may ask for a wage increase."
+    },
+    {
+      "start": 333.5,
+      "end": 337.5,
+      "text": " All of this can contribute to a cycle of higher prices across the economy."
+    },
+    {
+      "start": 338.14,
+      "end": 342.06,
+      "text": " Christian Hernandez is a small business owner who fixes mobile phones in L.A."
+    },
+    {
+      "start": 342.06,
+      "end": 347.58,
+      "text": " He told us the higher gas prices are not affecting him personally, but will affect his business."
+    },
+    {
+      "start": 347.58,
+      "end": 349.5,
+      "text": " We gotta do what we gotta do, right?"
+    },
+    {
+      "start": 350.14,
+      "end": 353.98,
+      "text": " I own a small business if everything goes up, I need to raise my prices as well."
+    },
+    {
+      "start": 353.98,
+      "end": 357.18,
+      "text": " So by the end of the day is just a cycle."
+    },
+    {
+      "start": 357.18,
+      "end": 362.46,
+      "text": " The Federal Reserve pays close attention to these cycles when deciding where to set interest rates."
+    },
+    {
+      "start": 362.46,
+      "end": 368.22,
+      "text": " It wants to keep inflation at 2%, and make sure wages and prices don't keep smiling higher."
+    },
+    {
+      "start": 368.22,
+      "end": 370.86,
+      "text": " Gas prices are a part of this consideration."
+    },
+    {
+      "start": 370.86,
+      "end": 375.42,
+      "text": " So it becomes an indicator of the price and the economy,"
+    },
+    {
+      "start": 375.42,
+      "end": 383.18,
+      "text": " and it drives inflation expectations, which then drives the behavior of the Fed in terms of setting"
+    },
+    {
+      "start": 383.18,
+      "end": 388.22,
+      "text": " interest rates, which determines how much we pay on our mortgage, on our credit card, etc."
+    },
+    {
+      "start": 388.22,
+      "end": 392.94,
+      "text": " Neil and his colleagues did some analysis on how much extra a typical American family"
+    },
+    {
+      "start": 392.94,
+      "end": 397.58,
+      "text": " could expect to pay over the course of this year, and they looked at projections from Goldman Sachs,"
+    },
+    {
+      "start": 397.58,
+      "end": 401.42,
+      "text": " on what oil prices will be if the straight of Hormuz remains closed."
+    },
+    {
+      "start": 401.42,
+      "end": 406.14,
+      "text": " The Goldman Sachs forecast remarks assumes a three-week closure with crude prices"
+    },
+    {
+      "start": 406.14,
+      "end": 409.02,
+      "text": " topping out at $110 per barrel."
+    },
+    {
+      "start": 409.58,
+      "end": 415.02,
+      "text": " Neil says those four cash show limited traffic at least through April 10th before bouncing back."
+    },
+    {
+      "start": 415.02,
+      "end": 418.7,
+      "text": " I don't know if that's optimistic or pessimistic depends upon who you asked."
+    },
+    {
+      "start": 418.7,
+      "end": 424.3,
+      "text": " But if you take that number, you can estimate how gas prices will trend over the summer."
+    },
+    {
+      "start": 424.3,
+      "end": 430.86,
+      "text": " According to this model, Neil shows gas peaking at an average of around $4.25 a gallon in April"
+    },
+    {
+      "start": 430.86,
+      "end": 434.3,
+      "text": " and May before retreating over the summer into fall."
+    },
+    {
+      "start": 434.46,
+      "end": 442.54,
+      "text": " We estimate that the typical family is going to pay $850 more for gas than they would if prices"
+    },
+    {
+      "start": 442.54,
+      "end": 446.46,
+      "text": " had sort of stated the level that folks were projecting before the war."
+    },
+    {
+      "start": 446.46,
+      "end": 451.42,
+      "text": " Again, this is based on a forecast that the straight starts to ramp up on April 10th,"
+    },
+    {
+      "start": 451.42,
+      "end": 457.98,
+      "text": " which now seems rather unlikely so that $850 is maybe too conservative of an estimate."
+    },
+    {
+      "start": 457.98,
+      "end": 462.38,
+      "text": " Neil noted this is more than the increased people were expecting to get back in tax refunds"
+    },
+    {
+      "start": 462.38,
+      "end": 466.62,
+      "text": " under the administration so-called one-big beautiful bill this tax season."
+    },
+    {
+      "start": 466.62,
+      "end": 473.58,
+      "text": " Something this analysis makes clear is gas prices shoot up like a rocket and float down like"
+    },
+    {
+      "start": 473.58,
+      "end": 480.3,
+      "text": " a feather. It's what economists call the rockets and feathers phenomenon. Even if the"
+    },
+    {
+      "start": 480.3,
+      "end": 487.1,
+      "text": " straight opens up and we start to see crude prices come down on the global market,"
+    },
+    {
+      "start": 487.1,
+      "end": 492.22,
+      "text": " that it will take a while to see normalization of prices at the pump."
+    },
+    {
+      "start": 492.54,
+      "end": 498.94,
+      "text": " This average of $4 a gallon for gas is a milestone nationally, but we have been here before."
+    },
+    {
+      "start": 498.94,
+      "end": 505.98,
+      "text": " There were oil shocks in the 1970s and between 2009 to 2014, inflation adjusted gas prices were"
+    },
+    {
+      "start": 505.98,
+      "end": 511.74,
+      "text": " actually higher in some cases. Plus, in 2022, there was an oil shock following Russia's full-scale"
+    },
+    {
+      "start": 511.74,
+      "end": 516.7,
+      "text": " invasion of Ukraine. The Trump administration has used some of this economic history to"
+    },
+    {
+      "start": 516.7,
+      "end": 523.18,
+      "text": " fend off criticism of higher prices. It's also pointed out that the US is a net oil exporter."
+    },
+    {
+      "start": 523.18,
+      "end": 528.3,
+      "text": " Yeah, a Yale economist explained that the global oil marketplace is like a giant bathtub with"
+    },
+    {
+      "start": 528.3,
+      "end": 533.34,
+      "text": " all the country's oil going into the same basin. So it really doesn't matter who is the"
+    },
+    {
+      "start": 533.34,
+      "end": 538.14,
+      "text": " exporter or importer. What matters is the price the global market has landed on."
+    },
+    {
+      "start": 538.14,
+      "end": 543.34,
+      "text": " Even if the drivers we spoke to weren't going to stop driving, at least 24-year-old Carter in"
+    },
+    {
+      "start": 543.34,
+      "end": 545.42,
+      "text": " LA is thinking ahead."
+    },
+    {
+      "start": 545.42,
+      "end": 551.42,
+      "text": " Yeah, maybe we'll get a Prius."
+    },
+    {
+      "start": 551.42,
+      "end": 554.3,
+      "text": " But then what's going to happen to EV prices?"
+    },
+    {
+      "start": 554.3,
+      "end": 555.66,
+      "text": " We're all cooked, Whalen."
+    },
+    {
+      "start": 555.66,
+      "end": 556.46,
+      "text": " Uh, no."
+    },
+    {
+      "start": 561.28,
+      "end": 566.56,
+      "text": " Next week on the show, we'll zoom out to get the international view on oil and gas prices,"
+    },
+    {
+      "start": 566.56,
+      "end": 571.52,
+      "text": " from gas rationing in Slovenia to blackouts in Bangladesh. We'll see how other countries"
+    },
+    {
+      "start": 571.6,
+      "end": 573.92,
+      "text": " are handling the crisis."
+    },
+    {
+      "start": 573.92,
+      "end": 577.44,
+      "text": " This episode was produced by Cooper Kasmit, came with engineering by Quacy Lee."
+    },
+    {
+      "start": 577.44,
+      "end": 581.36,
+      "text": " It was fact checked by Sierra Juarez, kicking cannon is the show's editor, and the indicator is"
+    },
+    {
+      "start": 581.36,
+      "end": 584.0,
+      "text": " a production of NPR."
+    }
+  ]
+}

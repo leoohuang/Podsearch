@@ -1,0 +1,807 @@
+{
+  "audio_path": "/Users/leohuang/podsearch/data/raw_audio/All_Ears_English_Podcast/a05d49c2-26b9-11f1-b9d0-2b1047d20ec5.mp3",
+  "language": "en",
+  "duration": 1007.20325,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": " This is an all-ears English podcast episode 25-97. As long as you listen today, you'll build this English skill."
+    },
+    {
+      "start": 10.0,
+      "end": 16.8,
+      "text": " Welcome to the all-ears English podcast, downloaded more than 200 million times."
+    },
+    {
+      "start": 16.8,
+      "end": 23.36,
+      "text": " Are you feeling stuck with your English? We'll show you how to become fearless and fluent by"
+    },
+    {
+      "start": 23.36,
+      "end": 32.16,
+      "text": " focusing on connection, not perfection. With your American hosts, Lindsay McMan, the English adventure,"
+    },
+    {
+      "start": 32.16,
+      "end": 39.12,
+      "text": " and Michelle Kaplan, the New York Radio Girl, coming to you from Colorado and New York City,"
+    },
+    {
+      "start": 39.12,
+      "end": 47.52,
+      "text": " USA. To get real-time transcripts right on your phone and create your personalized vocabulary list,"
+    },
+    {
+      "start": 47.52,
+      "end": 56.16,
+      "text": " try the all-ears English app for iOS and Android. Start your seven-day free trial at allearsenglish.com,"
+    },
+    {
+      "start": 56.16,
+      "end": 66.35,
+      "text": " board slash app. In this third part of our three-part series, get the most complex ways to state"
+    },
+    {
+      "start": 66.35,
+      "end": 72.75,
+      "text": " that something is conditional based on something else happening. Listen in today to learn more."
+    },
+    {
+      "start": 79.68,
+      "end": 84.48,
+      "text": " You can be technically correct in English and still not sound natural. Maybe your"
+    },
+    {
+      "start": 84.48,
+      "end": 89.92,
+      "text": " sentences are grammatically right, but something feels stiff, a little robotic, not quite how"
+    },
+    {
+      "start": 89.92,
+      "end": 95.68,
+      "text": " a native speaker would say it. That's nuance. Fluency lives in callocations, phrasal verbs,"
+    },
+    {
+      "start": 95.68,
+      "end": 102.08,
+      "text": " and word choice, not just grammar rules. If you keep using the same safe phrases, it may be time to"
+    },
+    {
+      "start": 102.08,
+      "end": 107.68,
+      "text": " stretch. Find out your level and what vocabulary skills you are missing in our free two-minute"
+    },
+    {
+      "start": 107.68,
+      "end": 120.48,
+      "text": " quits. Go to all-earsenglish.com slash fluency score. That's all-earsenglish.com slash f-l-u-e-n-c-y-s-c-o-r-e."
+    },
+    {
+      "start": 126.0,
+      "end": 132.96,
+      "text": " Hey there Michelle, how's it going today? Everything is good over here, Lindsay. I am so excited"
+    },
+    {
+      "start": 132.96,
+      "end": 142.08,
+      "text": " for today's episode because we are concluding a series, three-part series and it's going to be"
+    },
+    {
+      "start": 142.08,
+      "end": 148.16,
+      "text": " really interesting this one. Yeah, it started with my adventure on the Spanish steps in Rome, Italy,"
+    },
+    {
+      "start": 148.16,
+      "end": 154.64,
+      "text": " right? Always a good place to start an adventure. And what did we do in parts one into? So what was"
+    },
+    {
+      "start": 154.64,
+      "end": 161.68,
+      "text": " 2576 all about Michelle? Yeah, so 2576 was Lindsay's language adventure on the Spanish steps."
+    },
+    {
+      "start": 161.68,
+      "end": 167.68,
+      "text": " And it is basically this idea came about from your experience on the Spanish steps where"
+    },
+    {
+      "start": 169.12,
+      "end": 176.56,
+      "text": " a policeman told you that it's, he said it's not possible, right? It's just a down, right?"
+    },
+    {
+      "start": 176.56,
+      "end": 183.68,
+      "text": " Just sit on the step. And we talked about better ways to more natural ways, I'll say, to tell"
+    },
+    {
+      "start": 183.68,
+      "end": 189.44,
+      "text": " somebody that they can't do with something. Exactly. And then part two of the series was over on"
+    },
+    {
+      "start": 189.44,
+      "end": 195.12,
+      "text": " business English, right Michelle? That was business English 546, how to give permission in English."
+    },
+    {
+      "start": 195.12,
+      "end": 200.08,
+      "text": " So this series is all about whether something is possible, how to make it possible,"
+    },
+    {
+      "start": 200.08,
+      "end": 204.96,
+      "text": " and then today Michelle, what is part three? What are we getting into for our listeners today?"
+    },
+    {
+      "start": 204.96,
+      "end": 210.8,
+      "text": " So this is a little bit, I guess, kind of a little bit of a combo. So in this final part,"
+    },
+    {
+      "start": 210.8,
+      "end": 215.76,
+      "text": " we're going to talk about how to say something can happen, right? Something is okay to do,"
+    },
+    {
+      "start": 215.76,
+      "end": 220.64,
+      "text": " but there are conditions, right? Meaning it's not just a simple yes or no. There's something that"
+    },
+    {
+      "start": 220.64,
+      "end": 226.32,
+      "text": " has to happen in order for something to be okay. This is where we get into higher level English."
+    },
+    {
+      "start": 226.88,
+      "end": 232.24,
+      "text": " Oh, yeah. Our listeners, right, you know, be one, sorry, be two, see one level. This is where"
+    },
+    {
+      "start": 232.24,
+      "end": 237.2,
+      "text": " we get into those more complex sentences, which we need on aisles to score seven or higher. Right?"
+    },
+    {
+      "start": 237.2,
+      "end": 242.08,
+      "text": " So this is going to be so good for listeners today. Yeah, because it's not always just,"
+    },
+    {
+      "start": 242.08,
+      "end": 246.48,
+      "text": " yes, you can do this, no, you can't do this, right? There's, there's sometimes, there's more"
+    },
+    {
+      "start": 246.48,
+      "end": 251.12,
+      "text": " information that you need to get across. So we're going to help you do that today. But before we do"
+    },
+    {
+      "start": 251.12,
+      "end": 258.88,
+      "text": " that, we want to say a huge thank you to our reviewers. Yeah, huge thank you today to Sam from Canada,"
+    },
+    {
+      "start": 258.88,
+      "end": 265.04,
+      "text": " who left us a beautiful review and said fantastic. Well, thank you, Sam. So Maya Moja"
+    },
+    {
+      "start": 265.04,
+      "end": 273.68,
+      "text": " Meadie, thank you so much from Finland and Ata Abdulazay from Iran on February 8th. Huge thank"
+    },
+    {
+      "start": 273.68,
+      "end": 278.72,
+      "text": " you to these amazing reviewers, guys. These are dedicated reviewers who took the time to go and"
+    },
+    {
+      "start": 278.72,
+      "end": 283.52,
+      "text": " leave us a review. So go ahead and do that and you may get your name announced on the show."
+    },
+    {
+      "start": 283.52,
+      "end": 288.72,
+      "text": " Right, Michelle, we love to announce the names of the people that take the time to rate and review us."
+    },
+    {
+      "start": 288.72,
+      "end": 294.8,
+      "text": " Definitely, yes, please, please do so if you haven't already. It really means a lot to us."
+    },
+    {
+      "start": 294.88,
+      "end": 302.24,
+      "text": " Yes, all right. So again, this is about these conditions, right? So for example,"
+    },
+    {
+      "start": 302.24,
+      "end": 308.32,
+      "text": " a parent may tell their child, they can go to a party if they've done their homework or they can have,"
+    },
+    {
+      "start": 309.2,
+      "end": 313.84,
+      "text": " I mean, I feel like this is my whole life is just saying you can do this when you did this."
+    },
+    {
+      "start": 313.84,
+      "end": 318.8,
+      "text": " So you could have that assert if you eat your dinner is what my parents used to say to me. Yeah,"
+    },
+    {
+      "start": 318.8,
+      "end": 324.8,
+      "text": " you can, yeah, exactly. Like always just trying to, yeah, that's actually one of the techniques"
+    },
+    {
+      "start": 324.8,
+      "end": 329.68,
+      "text": " you know, I always hear about. Oh, you can say instead of saying no, you can't do something,"
+    },
+    {
+      "start": 329.68,
+      "end": 335.84,
+      "text": " say you can when you do something else, right? There's that, you know, after you get dressed, you can do"
+    },
+    {
+      "start": 335.84,
+      "end": 342.24,
+      "text": " whatever. Um, but this is just a really important skill because like we said, it's not always just a"
+    },
+    {
+      "start": 342.24,
+      "end": 348.96,
+      "text": " simple yes or no. There's this great area and we need to be able to express this. So today we're"
+    },
+    {
+      "start": 348.96,
+      "end": 355.28,
+      "text": " going to go over small phrases that will help you complete saying something may be allowed, right?"
+    },
+    {
+      "start": 355.28,
+      "end": 360.72,
+      "text": " We don't know exactly. And, you know, this goes beyond just like making little deals with your"
+    },
+    {
+      "start": 360.72,
+      "end": 365.84,
+      "text": " kid, right? Right? Oh, yeah, so many of our listeners have kids. I just realized that so many of our"
+    },
+    {
+      "start": 365.84,
+      "end": 370.56,
+      "text": " listeners have families and they are making these little deals every morning to get their kid out of"
+    },
+    {
+      "start": 371.52,
+      "end": 378.56,
+      "text": " out of the house and to onto school or daycare, right? But this also is used at the workplace"
+    },
+    {
+      "start": 378.56,
+      "end": 383.84,
+      "text": " for sure. Oh, yeah. And a lot of these expressions are there, are there really a little more"
+    },
+    {
+      "start": 383.84,
+      "end": 389.6,
+      "text": " formal sounding. So yeah, so we're going to give you a lot. Yeah, so we're going to go over these"
+    },
+    {
+      "start": 389.6,
+      "end": 394.64,
+      "text": " small phrases that will help you. And, you know, actually in our examples, we're going to use some of"
+    },
+    {
+      "start": 394.72,
+      "end": 401.12,
+      "text": " the ones that we some phrases that we taught on the other episode. So, um, look out for that."
+    },
+    {
+      "start": 401.12,
+      "end": 405.04,
+      "text": " Make sure you listen to those other episodes. So, all right, let's dive into it. All right,"
+    },
+    {
+      "start": 405.04,
+      "end": 408.8,
+      "text": " what's the first one, Lindsay? Okay, this one definitely is formal. I probably would not"
+    },
+    {
+      "start": 408.8,
+      "end": 413.12,
+      "text": " prefer the kid. Emily, not for the kids, they'll be like, what? What are you talking about? Yeah."
+    },
+    {
+      "start": 413.12,
+      "end": 418.48,
+      "text": " So, the phrase is provided that. So, you are allowed to use the party room, provided that you"
+    },
+    {
+      "start": 418.48,
+      "end": 422.96,
+      "text": " have it completely cleaned after you're done. This I could see more in the workplace Michelle."
+    },
+    {
+      "start": 423.04,
+      "end": 428.24,
+      "text": " Right? Mm-hmm. Oh, yeah, absolutely. Or she's allowed to use my office for work,"
+    },
+    {
+      "start": 428.24,
+      "end": 432.96,
+      "text": " provided that she brings her license to sign in at security. So, again, you're imagining"
+    },
+    {
+      "start": 432.96,
+      "end": 439.36,
+      "text": " somebody, um, the friend of yours needs to borrow your office. She has some work to do, but"
+    },
+    {
+      "start": 439.36,
+      "end": 444.32,
+      "text": " you just need to let her know. You can come, but you've got to bring your license, right? Exactly."
+    },
+    {
+      "start": 444.32,
+      "end": 449.76,
+      "text": " And then we go into something a little bit more simple, which is if or only if, um, and then"
+    },
+    {
+      "start": 449.76,
+      "end": 454.08,
+      "text": " there's the if and only if the famous if and only if, but we maybe we get to have one"
+    },
+    {
+      "start": 454.08,
+      "end": 460.96,
+      "text": " later. That's a good one. That is. Yeah, yeah, yeah, yeah. Yeah. But we'll be some examples, Michelle."
+    },
+    {
+      "start": 460.96,
+      "end": 467.04,
+      "text": " Yeah, so that works on our end. Only if we get confirmation 48 hours before, yeah,"
+    },
+    {
+      "start": 467.04,
+      "end": 472.32,
+      "text": " or you're welcome to use my car. If you have it back before 3 pm, maybe something you'd say"
+    },
+    {
+      "start": 472.32,
+      "end": 479.44,
+      "text": " to a teenager, right? Yes. Yep. Yep. Exactly. So, again, these are, you can do these things,"
+    },
+    {
+      "start": 479.44,
+      "end": 485.28,
+      "text": " but there are conditions. Yes, there are, and this is how life works, right? Usually, this is"
+    },
+    {
+      "start": 485.28,
+      "end": 491.28,
+      "text": " how life works. Subject 2 is another one. This is one that I see written a lot of times. Yeah,"
+    },
+    {
+      "start": 491.28,
+      "end": 498.24,
+      "text": " sign or something, right? So, feel free to use the kitchen, but it's subject to availability."
+    },
+    {
+      "start": 498.24,
+      "end": 503.52,
+      "text": " You have to check the chart. Yeah. So, maybe you want to have a lunch meeting at work."
+    },
+    {
+      "start": 504.24,
+      "end": 510.16,
+      "text": " Um, and, you know, you have to actually sign up to reserve the spot. Yeah. Yeah."
+    },
+    {
+      "start": 510.16,
+      "end": 517.52,
+      "text": " Or you can borrow my iPad subject to finishing your project. So, I wanted to bring this up,"
+    },
+    {
+      "start": 517.52,
+      "end": 523.36,
+      "text": " because that's how you would use it. But that's, yeah, that sounds a little horrible. I mean, I've never said that."
+    },
+    {
+      "start": 523.36,
+      "end": 530.4,
+      "text": " Yes, exactly. So, League Lindsay pointed out, you know, this is a lot written or very formal."
+    },
+    {
+      "start": 530.48,
+      "end": 537.44,
+      "text": " Yeah. Um, so I would save it for those situations. Exactly. Okay. And then with approval,"
+    },
+    {
+      "start": 537.44,
+      "end": 543.44,
+      "text": " would be the next one. You can adopt a dog with approval of the adoption agency. Right? Yeah."
+    },
+    {
+      "start": 543.44,
+      "end": 548.88,
+      "text": " So, did you have to, did you have to go through a big approval process? We had, yeah, we had to submit"
+    },
+    {
+      "start": 548.88,
+      "end": 554.4,
+      "text": " like a, like a profile, because I had never had a dog. My partner had had a dog as a child. So,"
+    },
+    {
+      "start": 554.4,
+      "end": 559.84,
+      "text": " we had to kind of describe our experience with dogs and puppies a little bit and describe like"
+    },
+    {
+      "start": 559.84,
+      "end": 565.12,
+      "text": " our home situation. But he was, you know, he was part of a litter and they're like, okay,"
+    },
+    {
+      "start": 565.12,
+      "end": 569.12,
+      "text": " you want him or not? Like, if you were trying to have for sure, they wanted him out the door."
+    },
+    {
+      "start": 569.12,
+      "end": 577.52,
+      "text": " Oh, well, you're giving him a very good home. Or you're welcome to come to our house with"
+    },
+    {
+      "start": 577.52,
+      "end": 585.44,
+      "text": " approval from your parents. So, maybe, you know, is a dear kid's friends and you are, I mean,"
+    },
+    {
+      "start": 585.52,
+      "end": 590.48,
+      "text": " sometimes parents do talk in a slightly more formal way. Mm-hmm. Yeah, for sure."
+    },
+    {
+      "start": 590.48,
+      "end": 594.64,
+      "text": " Yeah, some parents do. They just address their kids. You know what it makes me think of,"
+    },
+    {
+      "start": 596.0,
+      "end": 600.72,
+      "text": " miracle on 34th Street, you know, how there's that, there was that whole thing where, like,"
+    },
+    {
+      "start": 600.72,
+      "end": 606.32,
+      "text": " they, you know, they had, they, well, there was the whole narrative with Santa Claus and they're,"
+    },
+    {
+      "start": 606.32,
+      "end": 612.72,
+      "text": " like, they have their whole thing with Santa, but they, they're very formal the way they talk to"
+    },
+    {
+      "start": 612.72,
+      "end": 617.76,
+      "text": " their daughter. It's been on that so long. Yeah. If you watch to get in, that's kind of what"
+    },
+    {
+      "start": 617.76,
+      "end": 622.0,
+      "text": " we're getting at here. Some people are just more formal. That's just the way they speak to their kids, right?"
+    },
+    {
+      "start": 622.0,
+      "end": 628.16,
+      "text": " Yeah. Yeah. You can, you can use that printer with supervisor approval. Okay. Mm-hmm. Good."
+    },
+    {
+      "start": 629.6,
+      "end": 634.4,
+      "text": " And then we'll do one more. So this is also a little, you know, this is a little more neutral,"
+    },
+    {
+      "start": 634.4,
+      "end": 642.64,
+      "text": " not, not formal, not informal, as long as. So feel free to bring your friend to my party,"
+    },
+    {
+      "start": 642.72,
+      "end": 646.72,
+      "text": " as long as she follows the dress code. Yeah. Or you can drive the company card,"
+    },
+    {
+      "start": 647.44,
+      "end": 652.96,
+      "text": " as long as you fill it up before you come back. Yeah. As I say, that one is the most common for me."
+    },
+    {
+      "start": 652.96,
+      "end": 656.8,
+      "text": " As long as I totally agree, you're going to hear this one everywhere. This one,"
+    },
+    {
+      "start": 656.8,
+      "end": 665.44,
+      "text": " this one rolls off the tongue. I mean, I think if is also, of course, huge subject to with approval,"
+    },
+    {
+      "start": 665.44,
+      "end": 671.68,
+      "text": " those are, those are the more formal ones. Maybe written, but yeah, as long as you're going to"
+    },
+    {
+      "start": 671.76,
+      "end": 676.48,
+      "text": " hear that all the time. Yeah. That's your work for your social life, your family life, your work life."
+    },
+    {
+      "start": 676.48,
+      "end": 680.48,
+      "text": " Basically, you're going to apply this everywhere in your life, right? Right. Right. Right. Right."
+    },
+    {
+      "start": 680.48,
+      "end": 687.12,
+      "text": " Everywhere. Yeah. Which one do you use best for connection, Michelle? Yeah. I do think it"
+    },
+    {
+      "start": 687.12,
+      "end": 693.28,
+      "text": " as long as. Just because I think that's the most universal one. Yeah. You can certainly use"
+    },
+    {
+      "start": 693.28,
+      "end": 697.44,
+      "text": " that at work. You can use it outside of work. So I would say that that's going to make people"
+    },
+    {
+      "start": 697.44,
+      "end": 704.88,
+      "text": " feel like the most comfortable, not like you're balsing them around. But sometimes that you do need"
+    },
+    {
+      "start": 704.88,
+      "end": 713.2,
+      "text": " these more intense expressions. I'll provide it that I didn't say that one too. Yeah. So yeah."
+    },
+    {
+      "start": 713.2,
+      "end": 718.56,
+      "text": " Yeah. Yeah. Yeah. So as long as I don't know, that's what I think. Any other thoughts about"
+    },
+    {
+      "start": 718.56,
+      "end": 722.64,
+      "text": " that Lindsay? Yeah. I just think the more formal we get, the more distance we are trying to"
+    },
+    {
+      "start": 722.64,
+      "end": 727.44,
+      "text": " place between us and who we're speaking to. And there might be a time for that at work, or if"
+    },
+    {
+      "start": 727.44,
+      "end": 733.2,
+      "text": " you're instituting a policy, for example, if you work in HR, we've talked about this before."
+    },
+    {
+      "start": 733.2,
+      "end": 738.0,
+      "text": " You said that in email to your whole company, you do want to create a little bit of formality,"
+    },
+    {
+      "start": 738.0,
+      "end": 744.48,
+      "text": " a little distance, right? About that new policy. But when we're sending in front of someone,"
+    },
+    {
+      "start": 744.48,
+      "end": 750.8,
+      "text": " trying to build a connection, going for the more basic ones like as long as if is really good."
+    },
+    {
+      "start": 750.88,
+      "end": 756.24,
+      "text": " Okay. Great. Yeah. That's nice. All right. Let's do a role play. So we're not going to use all of these,"
+    },
+    {
+      "start": 756.24,
+      "end": 763.84,
+      "text": " but we're going to use a nice chunk. So in this role play, I am trying to get you to let me borrow your"
+    },
+    {
+      "start": 763.84,
+      "end": 772.24,
+      "text": " car. Oh, boy. What friends? Okay. Okay. Okay. It would be so helpful if you would let me use it for the"
+    },
+    {
+      "start": 772.24,
+      "end": 779.52,
+      "text": " weekend. I mean, you can use it as long as you fill it up after. I can do that and provided that"
+    },
+    {
+      "start": 779.52,
+      "end": 786.88,
+      "text": " you pay attention to all the traffic laws. I know how you like to drive. I haven't gone to ticket in years,"
+    },
+    {
+      "start": 786.88,
+      "end": 792.64,
+      "text": " and when I get my car back from the shop, you can always use it if you, if you do me this favor."
+    },
+    {
+      "start": 792.64,
+      "end": 800.56,
+      "text": " Okay. Okay. Thank you. I know how you drive me, shall you get stopped for going to slow? Yeah, exactly."
+    },
+    {
+      "start": 802.4,
+      "end": 807.44,
+      "text": " I was like, not doing like, oh, yeah. So we used a few of the good ones here,"
+    },
+    {
+      "start": 807.44,
+      "end": 813.44,
+      "text": " like, as long as I said, you can use it as long as you fill it up after, what do we mean fill it up? Like,"
+    },
+    {
+      "start": 813.44,
+      "end": 821.92,
+      "text": " fill it up? Fill it up? Okay. Yeah. That'll be a problem. Yeah. I guess. And then you use that and"
+    },
+    {
+      "start": 821.92,
+      "end": 827.6,
+      "text": " provided that you pay attention to all the traffic laws. Now, here, it's kind of in a joking way,"
+    },
+    {
+      "start": 827.6,
+      "end": 834.48,
+      "text": " you're kind of, um, you're taking on a parent like a parental role. A little, right? Yeah. Yeah."
+    },
+    {
+      "start": 835.44,
+      "end": 840.72,
+      "text": " I know how you like to drive. So you're, you're joking around in a way. I'm, yeah, I'm joking around"
+    },
+    {
+      "start": 840.72,
+      "end": 848.0,
+      "text": " and showing ownership of the car, right? That kind of thing. Yeah. And then you said, I haven't"
+    },
+    {
+      "start": 848.0,
+      "end": 852.8,
+      "text": " gotten ticket in years and when I get my car back from the shop, you can always use it if you do"
+    },
+    {
+      "start": 852.8,
+      "end": 860.72,
+      "text": " me this favor. Okay. All right. Well, we're making deals now, Michelle. Yeah. Exactly. And I also"
+    },
+    {
+      "start": 860.8,
+      "end": 867.44,
+      "text": " wanted to point out that, um, what you said earlier, if and only if, right? What do we think"
+    },
+    {
+      "start": 867.44,
+      "end": 872.96,
+      "text": " about that? Any thoughts to, uh, about why we would say that? That was a little bonus for today."
+    },
+    {
+      "start": 872.96,
+      "end": 878.48,
+      "text": " I think that one's just in static. I think you might hear that, uh, used in families, I guess,"
+    },
+    {
+      "start": 878.48,
+      "end": 882.32,
+      "text": " or, I don't know, if you're just trying to be a little more dramatic, right? When you're"
+    },
+    {
+      "start": 882.32,
+      "end": 887.92,
+      "text": " a little more dramatic, the conditions matter even more, uh, maybe you had trouble with this"
+    },
+    {
+      "start": 887.92,
+      "end": 894.08,
+      "text": " in the past, like you can, you can go to the movies if and only if you actually clean your room"
+    },
+    {
+      "start": 894.08,
+      "end": 898.48,
+      "text": " this time, right? Exactly. You're just having more fun. I think you're just being more dramatic,"
+    },
+    {
+      "start": 898.48,
+      "end": 904.32,
+      "text": " having more fun. The stakes are higher and that's just another option for listeners for today."
+    },
+    {
+      "start": 904.32,
+      "end": 908.96,
+      "text": " Yeah. Okay. Yeah. Good. Absolutely. Well, this series has been a lot of fun. Guys, make"
+    },
+    {
+      "start": 908.96,
+      "end": 914.4,
+      "text": " sure you go check out the other episodes, um, so that you can get the whole picture of all that"
+    },
+    {
+      "start": 914.48,
+      "end": 919.2,
+      "text": " we've talked about. But yeah, Lindsay, any other takeaways before we head off the mic."
+    },
+    {
+      "start": 919.2,
+      "end": 923.92,
+      "text": " Well, I just, I'm glad we covered this, you know, things being possible. What's possible? How to"
+    },
+    {
+      "start": 923.92,
+      "end": 930.8,
+      "text": " give permission and the conditions today because life is complex, right? Life is full of these"
+    },
+    {
+      "start": 930.8,
+      "end": 936.64,
+      "text": " complexities. It's not always just, it's okay to sit here or it's not okay to sit here. Right?"
+    },
+    {
+      "start": 936.64,
+      "end": 941.84,
+      "text": " It's okay to sit here under what conditions, right? And so that's what we got into. We escalated"
+    },
+    {
+      "start": 941.84,
+      "end": 946.88,
+      "text": " the complexity in this series for listeners. So I love that. I love that. Yeah. Excellent."
+    },
+    {
+      "start": 946.88,
+      "end": 951.2,
+      "text": " All right, Lindsay. Well, if you're ready, we'll get off the mic. Let's do it."
+    },
+    {
+      "start": 951.2,
+      "end": 954.08,
+      "text": " If and only, if and only, if and only, if you're ready, I'm ready. All right, we shall"
+    },
+    {
+      "start": 954.08,
+      "end": 964.61,
+      "text": " all see you next time. All right. Bye. Bye. Bye. Bye. Thanks for listening to all ears English."
+    },
+    {
+      "start": 964.61,
+      "end": 970.69,
+      "text": " Would you like to know your English level? Take our two-minute quiz, go to all earsenglish.com,"
+    },
+    {
+      "start": 970.69,
+      "end": 976.53,
+      "text": " forward slash fluency score. And if you believe in connection, not perfection,"
+    },
+    {
+      "start": 976.53,
+      "end": 982.21,
+      "text": " then hit subscribe now to make sure you don't miss anything. See you next time."
+    }
+  ]
+}
