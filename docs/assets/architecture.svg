@@ -1,0 +1,90 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1120" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7FAFC"/>
+      <stop offset="1" stop-color="#EEF2FF"/>
+    </linearGradient>
+    <linearGradient id="cardA" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <linearGradient id="cardB" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#EFF6FF"/>
+      <stop offset="1" stop-color="#DBEAFE"/>
+    </linearGradient>
+    <linearGradient id="cardC" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ECFDF5"/>
+      <stop offset="1" stop-color="#D1FAE5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#0F172A" flood-opacity="0.08"/>
+    </filter>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L10 5L0 10V0Z" fill="#475569"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="720" rx="28" fill="url(#bg)"/>
+
+  <text x="80" y="92" fill="#0F172A" font-size="38" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    PodSearch Architecture
+  </text>
+  <text x="80" y="128" fill="#475569" font-size="20" font-family="Arial, Helvetica, sans-serif">
+    Multilingual podcast semantic search pipeline with ASR, embeddings, vector retrieval, reranking, and audio preview
+  </text>
+
+  <rect x="70" y="180" width="1060" height="470" rx="28" fill="#FFFFFF" fill-opacity="0.74" stroke="#E2E8F0"/>
+
+  <rect x="110" y="228" width="220" height="120" rx="22" fill="url(#cardA)" stroke="#CBD5E1" filter="url(#shadow)"/>
+  <text x="140" y="268" fill="#0F172A" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Podcast Sources</text>
+  <text x="140" y="302" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">RSS feeds</text>
+  <text x="140" y="328" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Audio episodes</text>
+
+  <rect x="390" y="228" width="220" height="120" rx="22" fill="url(#cardB)" stroke="#93C5FD" filter="url(#shadow)"/>
+  <text x="428" y="268" fill="#0F172A" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">ASR Layer</text>
+  <text x="428" y="302" fill="#1D4ED8" font-size="17" font-family="Arial, Helvetica, sans-serif">Faster-Whisper</text>
+  <text x="428" y="328" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Timestamped transcripts</text>
+
+  <rect x="670" y="228" width="220" height="120" rx="22" fill="url(#cardA)" stroke="#CBD5E1" filter="url(#shadow)"/>
+  <text x="702" y="268" fill="#0F172A" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Chunking</text>
+  <text x="702" y="302" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Transcript segments</text>
+  <text x="702" y="328" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Searchable metadata</text>
+
+  <rect x="950" y="228" width="140" height="120" rx="22" fill="url(#cardC)" stroke="#86EFAC" filter="url(#shadow)"/>
+  <text x="983" y="268" fill="#0F172A" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Index</text>
+  <text x="976" y="302" fill="#047857" font-size="17" font-family="Arial, Helvetica, sans-serif">BGE-M3</text>
+  <text x="970" y="328" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">ChromaDB</text>
+
+  <rect x="110" y="448" width="220" height="120" rx="22" fill="url(#cardA)" stroke="#CBD5E1" filter="url(#shadow)"/>
+  <text x="148" y="488" fill="#0F172A" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">User Query</text>
+  <text x="148" y="522" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Chinese or English</text>
+  <text x="148" y="548" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Natural-language input</text>
+
+  <rect x="390" y="448" width="220" height="120" rx="22" fill="url(#cardB)" stroke="#93C5FD" filter="url(#shadow)"/>
+  <text x="418" y="488" fill="#0F172A" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Recall</text>
+  <text x="418" y="522" fill="#1D4ED8" font-size="17" font-family="Arial, Helvetica, sans-serif">Vector search Top-30</text>
+  <text x="418" y="548" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Fast candidate retrieval</text>
+
+  <rect x="670" y="448" width="220" height="120" rx="22" fill="url(#cardC)" stroke="#86EFAC" filter="url(#shadow)"/>
+  <text x="700" y="488" fill="#0F172A" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Reranking</text>
+  <text x="700" y="522" fill="#047857" font-size="17" font-family="Arial, Helvetica, sans-serif">BGE-Reranker-v2-M3</text>
+  <text x="700" y="548" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Higher precision Top-10</text>
+
+  <rect x="950" y="448" width="140" height="120" rx="22" fill="url(#cardA)" stroke="#CBD5E1" filter="url(#shadow)"/>
+  <text x="972" y="488" fill="#0F172A" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Output</text>
+  <text x="970" y="522" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Timestamps</text>
+  <text x="971" y="548" fill="#475569" font-size="17" font-family="Arial, Helvetica, sans-serif">Audio clips</text>
+
+  <path d="M330 288H390" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M610 288H670" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M890 288H950" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <path d="M1020 348V404H500V448" stroke="#475569" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+  <path d="M330 508H390" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M610 508H670" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M890 508H950" stroke="#475569" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <text x="82" y="682" fill="#64748B" font-size="16" font-family="Arial, Helvetica, sans-serif">
+    Offline indexing on top, online retrieval on bottom.
+  </text>
+</svg>
