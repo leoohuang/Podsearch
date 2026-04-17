@@ -1,0 +1,48 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1180" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+
+  <circle cx="215" cy="180" r="78" stroke="url(#ring)" stroke-width="18"/>
+  <circle cx="215" cy="180" r="24" fill="#F8FAFC"/>
+  <path d="M215 76V44" stroke="#93C5FD" stroke-width="10" stroke-linecap="round"/>
+  <path d="M279 104L302 82" stroke="#93C5FD" stroke-width="10" stroke-linecap="round"/>
+  <path d="M311 180H343" stroke="#93C5FD" stroke-width="10" stroke-linecap="round"/>
+  <path d="M279 256L302 278" stroke="#93C5FD" stroke-width="10" stroke-linecap="round"/>
+  <path d="M215 284V316" stroke="#93C5FD" stroke-width="10" stroke-linecap="round"/>
+  <path d="M151 256L128 278" stroke="#93C5FD" stroke-width="10" stroke-linecap="round"/>
+  <path d="M119 180H87" stroke="#93C5FD" stroke-width="10" stroke-linecap="round"/>
+  <path d="M151 104L128 82" stroke="#93C5FD" stroke-width="10" stroke-linecap="round"/>
+
+  <path d="M188 180C200 160 208 205 221 185C232 168 239 150 252 180" stroke="url(#wave)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="380" y="145" fill="#F8FAFC" font-size="68" font-family="Arial, Helvetica, sans-serif" font-weight="700">PodSearch</text>
+  <text x="382" y="195" fill="#BFDBFE" font-size="28" font-family="Arial, Helvetica, sans-serif">AI-powered semantic search for podcast archives</text>
+  <text x="382" y="237" fill="#CBD5E1" font-size="22" font-family="Arial, Helvetica, sans-serif">Multilingual retrieval • Timestamped results • Playable audio snippets</text>
+
+  <rect x="382" y="270" width="170" height="40" rx="20" fill="#EFF6FF" fill-opacity="0.12" stroke="#93C5FD" stroke-opacity="0.45"/>
+  <text x="414" y="296" fill="#E0F2FE" font-size="18" font-family="Arial, Helvetica, sans-serif">Python · PyTorch</text>
+
+  <rect x="570" y="270" width="160" height="40" rx="20" fill="#EFF6FF" fill-opacity="0.12" stroke="#93C5FD" stroke-opacity="0.45"/>
+  <text x="611" y="296" fill="#E0F2FE" font-size="18" font-family="Arial, Helvetica, sans-serif">ChromaDB</text>
+
+  <rect x="748" y="270" width="170" height="40" rx="20" fill="#EFF6FF" fill-opacity="0.12" stroke="#93C5FD" stroke-opacity="0.45"/>
+  <text x="784" y="296" fill="#E0F2FE" font-size="18" font-family="Arial, Helvetica, sans-serif">Faster-Whisper</text>
+
+  <rect x="936" y="270" width="152" height="40" rx="20" fill="#EFF6FF" fill-opacity="0.12" stroke="#93C5FD" stroke-opacity="0.45"/>
+  <text x="977" y="296" fill="#E0F2FE" font-size="18" font-family="Arial, Helvetica, sans-serif">Streamlit</text>
+</svg>

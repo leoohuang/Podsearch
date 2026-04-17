@@ -1,15 +1,40 @@
-# PodSearch
+<p align="center">
+  <img src="docs/assets/podsearch-banner.svg" alt="PodSearch banner" width="100%" />
+</p>
 
-English | [中文](README_zh.md)
+<p align="center">
+  English | <a href="README_zh.md">中文</a>
+</p>
 
-Semantic search for podcast archives with multilingual retrieval, timestamp-level results, and playable audio snippets.
+<p align="center">
+  AI-powered semantic search for podcast archives with multilingual retrieval, timestamped results, and playable audio snippets.
+</p>
 
-![PodSearch Demo](demo.gif)
-![PodSearch Architecture](docs/assets/architecture.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Vector%20DB-ChromaDB-5B47FB?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/ASR-Faster--Whisper-0F766E?style=flat-square" alt="Faster-Whisper" />
+  <img src="https://img.shields.io/badge/Retrieval-BGE--M3-0EA5E9?style=flat-square" alt="BGE-M3" />
+  <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Task-Podcast%20Semantic%20Search-111827?style=flat-square" alt="Task" />
+  <img src="https://img.shields.io/badge/Ranking-Two%20Stage-1D4ED8?style=flat-square" alt="Two-stage ranking" />
+  <img src="https://img.shields.io/badge/Language-ZH%20%2F%20EN-059669?style=flat-square" alt="Chinese and English" />
+  <img src="https://img.shields.io/badge/Status-Local%20Prototype-F59E0B?style=flat-square" alt="Prototype" />
+</p>
+
+PodSearch is an AI retrieval system for podcast libraries. It downloads podcast episodes, transcribes them into timestamped text, builds multilingual embeddings, and returns the most relevant audio segments for natural-language queries.
+
+<p align="center">
+  <img src="demo.gif" alt="PodSearch demo" width="92%" />
+</p>
 
 ## Overview
 
-PodSearch turns long-form podcast audio into a searchable semantic knowledge base. It downloads podcast episodes, transcribes speech into timestamped text, builds chunk-level embeddings, and returns the most relevant segments for a natural-language query.
+PodSearch turns long-form podcast audio into a searchable semantic knowledge base. Instead of scanning episodes manually, users can describe a topic in natural language and retrieve the most relevant moments across a podcast collection.
 
 The project is designed for:
 
@@ -17,6 +42,12 @@ The project is designed for:
 - topic research and knowledge discovery
 - cross-show semantic retrieval
 - creator and team workflows that need searchable audio libraries
+
+## Why PodSearch
+
+- Audio-first content is hard to navigate once a library grows across dozens of episodes and shows.
+- Traditional keyword matching performs poorly on paraphrased concepts or multilingual phrasing.
+- PodSearch combines ASR, embedding-based retrieval, and reranking to make spoken content searchable at the segment level.
 
 ## Table of Contents
 
@@ -40,6 +71,16 @@ The project is designed for:
 - Streamlit demo interface with podcast-level filtering
 - Offline ingestion pipeline for download, transcription, chunking, embedding, and indexing
 - Built-in evaluation scripts for ranking quality analysis
+
+## Demo
+
+The current demo interface supports:
+
+- natural-language query input
+- reranked transcript results
+- timestamped segment preview
+- podcast-level filtering
+- inline playback for matched audio clips
 
 ## Architecture
 
