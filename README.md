@@ -96,7 +96,6 @@ python retrieve.py
 | 前端（开发中） | Streamlit |
 
 ## 支持的播客
-
-中文：硅谷101、纵横四海、知行小酒馆、忽左忽右、罗永浩的十字路口
-
-英文：Lex Fridman Podcast、Acquired、The Indicator、ESL Podcast、All Ears English
+支持所有能够获取 RSS 的播客例如：
+Apple Podcast
+小宇宙，Spotify 这些作者目前没有自己试过
