@@ -6,3 +6,4 @@ data/raw_audio/
 data/chroma_db/
 .DS_Store
 *.ipynb_checkpoints
+.venv/
