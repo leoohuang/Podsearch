@@ -97,5 +97,5 @@ python retrieve.py
 
 ## 支持的播客
 支持所有能够获取 RSS 的播客例如：
-Apple Podcast
-小宇宙，Spotify 这些作者目前没有自己试过
+-Apple Podcast. 
+-小宇宙，Spotify 这些作者目前没有自己试过
