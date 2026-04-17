@@ -1,0 +1,82 @@
+[
+  {
+    "query": "ai焦虑",
+    "relevant_ranks": [1, 2, 4, 6, 8, 9, 10]
+  },
+  {
+    "query": "语言的重要性",
+    "relevant_ranks": [2, 8, 9, 10]
+  },
+  {
+    "query": "AI investment",
+    "relevant_ranks": [1, 2, 3, 4, 6]
+  },
+  {
+    "query": "未来生活",
+    "relevant_ranks": [1, 2, 3, 4, 5, 6, 8, 9]
+  },
+  {
+    "query": "startup failure",
+    "relevant_ranks": [2, 6]
+  },
+  {
+    "query": "健康习惯",
+    "relevant_ranks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  },
+  {
+    "query": "投资策略",
+    "relevant_ranks": [1, 2, 3, 4, 5, 6, 7, 9, 10]
+  },
+  {
+    "query": "英语学习",
+    "relevant_ranks": [1, 2, 3, 5, 6, 7, 9, 10]
+  },
+  {
+    "query": "人工智能未来",
+    "relevant_ranks": [1, 2, 3, 4, 5, 7, 8, 9, 10]
+  },
+  {
+    "query": "拖延症",
+    "relevant_ranks": [1, 2, 3, 4, 5, 6, 7, 8]
+  },
+  {
+    "query": "how to be productive",
+    "relevant_ranks": [1, 3, 4, 6, 7]
+  },
+  {
+    "query": "cryptocurrency",
+    "relevant_ranks": [2]
+  },
+  {
+    "query": "中美关系",
+    "relevant_ranks": [2, 3, 5, 8]
+  },
+  {
+    "query": "睡眠质量",
+    "relevant_ranks": [2, 4, 5, 6, 7, 9]
+  },
+  {
+    "query": "ADHD",
+    "relevant_ranks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  },
+  {
+    "query": "巴菲特",
+    "relevant_ranks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  },
+  {
+    "query": "consciousness",
+    "relevant_ranks": [2]
+  },
+  {
+    "query": "how AI works",
+    "relevant_ranks": [2, 4, 5, 6, 7, 8, 9]
+  },
+  {
+    "query": "创业建议",
+    "relevant_ranks": [1, 5, 6, 7]
+  },
+  {
+    "query": "reading habits",
+    "relevant_ranks": [1, 2, 3, 4, 6, 7, 8, 10]
+  }
+]
